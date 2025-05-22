@@ -1,5 +1,4 @@
 # Image-to-pencil-sketch-converter
-
 The basic steps involved in converting an image to a pencil sketch are-
 
 1.Read the image.
